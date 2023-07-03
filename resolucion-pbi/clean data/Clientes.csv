@@ -1,0 +1,108 @@
+IdCliente;Cliente;IdPersona;Teléfono;IdCiudad
+1;Adams, Fernando;2;373846615;20
+2;Adams, Wyatt;2;646775929;16
+3;Alonso, Julio;2;667028591;5
+4;Ana, Maria;2;707344341;9
+5;Anderson, Nicholas;2;743415512;13
+6;Arthur, Jermaine;2;806106230;18
+7;Bailey, Angel;2;589416549;22
+8;Baileya, Angela;2;209739312;19
+9;Bebbington, Mark;2;738959030;7
+10;Bryant, Seth;2;765493328;40
+11;Coleman, James;2;195511040;6
+12;Davis, John;2;590199780;2
+13;Diaz, Byron;2;434211154;36
+14;Diaz, Gabriel;2;656008264;19
+15;Edwards, Nathan;2;558112040;2
+16;Evans, Devin;2;446730339;26
+17;Evans, Noah;2;452804313;10
+18;Gao, Ronnie;2;442954865;5
+19;Garcia, James;2;440495846;27
+20;Gonzales, Caleb;2;624637112;25
+21;Gray, Isaiah;2;671694387;11
+22;Green, James;2;351869587;25
+23;Griffin, Kyle;2;317279040;20
+24;Griffin, Zachary;2;839101853;24
+25;Hernandez, Micheal;2;836211885;13
+26;Hill, Lucas;2;406578173;21
+27;Jackson, Nicholas;2;707614386;3
+28;Jackson, Noah;2;771116619;31
+29;Johnson, Austin;2;617720204;8
+30;Johnson, Benjamin;2;787521287;22
+31;Johnson, Dalton;2;599037926;17
+32;Kelly, Chase;2;258257412;21
+33;Kumar, Kevin;2;757707873;6
+34;Kumar, Leonard;2;242567926;17
+35;Lewis, Charles;2;820869845;7
+36;Liu, Louis;2;815744830;12
+37;Lopez, Blake;2;405976270;32
+38;Martinez, Marco;2;762462667;15
+39;Miller, Seth;2;577563397;14
+40;Mitchell, Connor;2;604085596;35
+41;Mitchell, Marcus;2;693724543;34
+42;Morgan, Brian;2;772069253;4
+43;Morris, Devin;2;570083840;10
+44;Morris, Timothy;2;840955365;15
+45;Ortega, Marvin;2;261853276;4
+46;Pal, Ricardo;2;207566479;33
+47;Perez, Jeremy;2;742873352;23
+48;Ramos, Dwayne;2;520366451;11
+49;Reed, Richard;2;377622755;3
+50;Richardson, Juan;2;705774082;37
+51;Rivera, Adrian;2;224254096;16
+52;Rodolfo, Chavez;2;823100402;18
+53;Rodriguez, Thomas;2;854879196;8
+54;Ross, Christian;2;459974134;24
+55;Sanchez, Eduardo;2;427898518;23
+56;Sanchez, Ian;2;249823182;38
+57;Sharma, Ethan;2;574302082;29
+58;Smith, Jonathan;2;441824686;39
+59;Smith, Julio;2;722722460;30
+60;Torres, Isaiah;2;586851024;14
+61;Turner, Richard;2;284736113;1
+62;Ward, Jeremy;2;281797334;9
+63;Washington, Jack;2;490574837;26
+64;Washington, Jose;2;342142162;28
+65;Zeng, Omar;2;256950849;27
+66;Boulder Cnia;1;396674800;38
+67;Buffalo Cnia;1;314800578;26
+68;Burbank Cnia;1;180874224;32
+69;Canoga Parque;1;230328451;6
+70;Charles Cnia;1;481100318;20
+71;Charleston Cnia;1;195780528;22
+72;Chen, Dylan;1;209751676;12
+73;Coffs Harbour Cnia;1;202735528;24
+74;Congo Mongo Estudio;1;727374976;10
+75;Corda Empresa de Correos;1;543323111;3
+76;Dallas Producciones;1;697211619;2
+77;Englewood Cnia;1;833593115;39
+78;Falmouth Cnia;1;665581108;21
+79;Fiorilo Transportes y Correo;1;465789765;15
+80;Geelong Cnia;1;734079959;33
+81;Gold Coast Accesorios;1;858418641;4
+82;Greenville Cnia;1;603746260;40
+83;Grupo 3 Estudio de Abogados;1;772795496;12
+84;Grupo Ases;1;370845396;7
+85;Holyoke Producciones;1;852769732;9
+86;Jota Cnia;1;339269938;37
+87;Kiela Cnia;1;231153346;34
+88;Kolkata Cnia;1;534865861;29
+89;Lake Oswego Cnia;1;522150339;19
+90;Lancaster Vestimenta;1;510329136;5
+91;Leo Seguros;1;371310230;11
+92;Longview Cnia;1;602575964;28
+93;Madridia Cnia;1;528674787;36
+94;Oleagi Agropecuaria;1;201839058;13
+95;Oregon Cnia;1;588289798;31
+96;Orlando Cnia;1;458287489;1
+97;Paris Cnia;1;558593161;23
+98;Rochester Cnia;1;433705870;25
+99;Round Ventures;1;231325847;8
+100;Semillas Santo Mongo;1;395455609;14
+101;South Portland Cnia;1;644230146;17
+102;Sunbury Cnia;1;225770681;35
+103;Transportes Pampa;1;397375640;1
+104;Trenton Cnia;1;805211764;27
+105;Victoria Cnia;1;694310799;18
+106;Viga Ingenieros;1;255869094;16
+107;Wapato Cnia;1;501853861;30
